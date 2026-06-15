@@ -27,12 +27,6 @@ To develop a machine learning model that accurately predicts the species of an i
 * Petal Width
 * Species
 
-## Algorithm Used
-
-### K-Nearest Neighbors (KNN)
-
-KNN classifies flowers based on the majority class of their nearest neighboring samples.
-
 ## Steps Performed
 
 1. Loaded the Iris dataset.
